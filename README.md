@@ -62,9 +62,4 @@ The data cleaning process included:
 
 This dataset is often used for educational purposes and analytics practice.
 
----
-
-## 📬 Contact
-
-For any queries, reach out to [Your Name] at [Your Email or LinkedIn].
 
